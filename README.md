@@ -25,7 +25,7 @@ You need to have [`Python 3`](https://www.python.org/) on your system (**a Pytho
         
         python3 -m venv venv; source venv/bin/activate; python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
-The both long command-lines have a same structure, they pipe multiple commands using the symbol **;**.
+The both long command-lines have a same structure, they pipe multiple commands using the symbol **;** but you may manually execute them one after another.
 
 1. **Create the Python's virtual environment** that isolates the required libraries of the project to avoid conflicts;
 2. **Activate the Python's virtual environment** so that the Python kernel & libraries will be those of the isolated environment;
