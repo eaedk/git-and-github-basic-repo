@@ -1,5 +1,5 @@
 # git-and-github-basic-repo
-
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## Description
 This is a basic repository to start practicing Git &amp; Github.
 
